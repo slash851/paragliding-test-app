@@ -121,9 +121,6 @@ function App() {
           Pozostały czas: {formatTime(timer)}
         </Typography>
       )}
-      <Typography variant="h3" component="h1" align="center" gutterBottom>
-        {mode === "practice" ? "Praktyka" : mode === "reviewAll" ? "" : "Test"}
-      </Typography>
       {mode === "reviewAll" ? (
         <Card>
           <CardContent>

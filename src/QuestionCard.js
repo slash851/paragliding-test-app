@@ -71,7 +71,7 @@ function QuestionCard({ question, onAnswer }) {
       </Box>
       {answered && (
         <Button onClick={handleNext} variant="contained" sx={{ mt: 2 }}>
-          Next
+          Następne
         </Button>
       )}
     </>

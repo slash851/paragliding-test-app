@@ -12,7 +12,7 @@ function StartScreen({ onStartPractice, onStartTest, onStartSectionPractice, onR
   if (showSections) {
     return (
       <Container maxWidth="sm" sx={{ textAlign: 'center', mt: 8 }}>
-        <Typography variant="h4" component="h1" gutterBottom>
+        <Typography variant="h4" component="h4" gutterBottom>
           Wybierz dział:
         </Typography>
         <Box sx={{ mt: 4 }}>
@@ -36,13 +36,14 @@ function StartScreen({ onStartPractice, onStartTest, onStartSectionPractice, onR
   }
 
   const buttonSx = {
-    width: '200px',    
+    width: '8em',    
     aspectRatio: '1 / 1',
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
     justifyContent: 'center',
     p: 2,
+    m: 1,
     fontSize: '1.2rem',
     backgroundColor: '#1976d2',
     '&:hover': {
@@ -52,59 +53,51 @@ function StartScreen({ onStartPractice, onStartTest, onStartSectionPractice, onR
 
   return (
     <Container maxWidth="sm" sx={{ textAlign: 'center', mt: 8 }}>
-      <Typography variant="h2" component="h1" gutterBottom>
+      <Typography variant="h4" component="h4" gutterBottom>
         Świadectwo Kwalifikacji Pilota Paralotniowego
       </Typography>
-      <Typography variant="h5" component="p" color="text.secondary" paragraph>
-        Wybierz tryb:
-      </Typography>
-      <Box sx={{ mt: 4, display: 'flex', justifyContent: 'center' }}>
-        <Grid container spacing={2} sx={{ maxWidth: '420px' }}>
-          <Grid item xs={6}>
-            <Button
-              variant="contained"
-              size="large"
-              onClick={onStartPractice}
-              sx={buttonSx}
-            >
-              <School sx={{ fontSize: 40, mb: 1 }} />
-              Praktyka
-            </Button>
-          </Grid>
-          <Grid item xs={6}>
-            <Button
-              variant="contained"
-              size="large"
-              onClick={onStartTest}
-              sx={buttonSx}
-            >
-              <Science sx={{ fontSize: 40, mb: 1 }} />
-              Test
-            </Button>
-          </Grid>
-          <Grid item xs={6}>
-            <Button
-              variant="contained"
-              size="large"
-              onClick={() => setShowSections(true)}
-              sx={buttonSx}
-            >
-              <LibraryBooks sx={{ fontSize: 40, mb: 1 }} />
-              Ucz się z działu
-            </Button>
-          </Grid>
-          <Grid item xs={6}>
-            <Button
-              variant="contained"
-              size="large"
-              onClick={onReviewAll}
-              sx={buttonSx}
-            >
-              <CheckCircleOutline sx={{ fontSize: 40, mb: 1 }} />
-              Wszystkie odpowiedzi
-            </Button>
-          </Grid>
-        </Grid>
+
+      <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center', mt: 4 }}>
+        <Box sx={{ display: 'flex', justifyContent: 'center', mb: 2 }}>
+          <Button
+            variant="contained"
+            size="large"
+            onClick={onStartPractice}
+            sx={buttonSx}
+          >
+            <School sx={{ fontSize: 40, mb: 1 }} />
+            Praktyka
+          </Button>
+          <Button
+            variant="contained"
+            size="large"
+            onClick={onStartTest}
+            sx={buttonSx}
+          >
+            <Science sx={{ fontSize: 40, mb: 1 }} />
+            Test
+          </Button>
+        </Box>
+        <Box sx={{ display: 'flex', justifyContent: 'center' }}>
+          <Button
+            variant="contained"
+            size="large"
+            onClick={() => setShowSections(true)}
+            sx={buttonSx}
+          >
+            <LibraryBooks sx={{ fontSize: 40, mb: 1 }} />
+            Ucz się z działu
+          </Button>
+          <Button
+            variant="contained"
+            size="large"
+            onClick={onReviewAll}
+            sx={buttonSx}
+          >
+            <CheckCircleOutline sx={{ fontSize: 40, mb: 1 }} />
+            Wszystkie odpowiedzi
+          </Button>
+        </Box>
       </Box>
     </Container>
   );
