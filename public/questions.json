@@ -1,849 +1,1051 @@
 [
   {
-    "title": "PRAWO LOTNICZE",
+    "category": "Człowiek, Możliwości, Ograniczenia",
     "questions": [
       {
-        "question": "Czy egzamin państwowy praktyczny podlega opłacie?",
-        "options": [
-          "Tak",
-          "Tak ale tylko w przypadku kiedy odbywa się poza Warszawą",
-          "Nie podlega opłacie",
-          "Tak. ale tylko kiedy jest to egzamin poprawkowy A"
+        "question": "Wraz ze wzrostem wysokości ciśnienie:",
+        "answers": [
+          "rośnie, co wpływa na zaburzenia pracy serca",
+          "maleje w następstwie czego mogą wystąpić objawy choroby wysokościowej",
+          "jest stałe i nie ma znaczenia dla organizmu pilota",
+          "rośnie, ale zmiana jest tak mała, że nie wpływa na pracę organizmu pilota"
         ],
-        "correctAnswer": "A"
+        "correctAnswer": 1
       },
       {
-        "question": "Czy egzamin państwowy teoretyczny podlega opłacie?",
-        "options": [
-          "Tak ale tylko w przypadku kiedy odbywa się poza Warszawą",
-          "Tak",
-          "Nie podlega opłacie",
-          "Tak. ale tylko kiedy jest to egzamin poprawkowy."
+        "question": "Niedotlenienie organizmu podczas wykonywania lotu:",
+        "answers": [
+          "może wystąpić na skutek przebywania na dużej wysokości",
+          "może spowodować zaburzenia pracy błędnika",
+          "ma wpływ na bezpieczeństwo wykonywania lotu",
+          "wszystkie odpowiedzi są prawidłowe"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 3
       },
       {
-        "question": "Czym jest licencja?",
-        "options": [
-          "Jest to dokument określający możliwość wykonywania lotów statkiem powietrznym",
-          "Jest to potwierdzenie, że posiadacz dokumentu może wykonywać loty statkiem statkiem powietrznym",
-          "Jest to dokument stwierdzający posiadanie określonych kwalifikacji i upoważniający do wykonywania określonych czynności lotniczych.",
-          "Jest to świadectwo określonych kwalifikacji i dowód upoważnienia do wykonywania określonych czynności lotniczych."
+        "question": "Pilot wykonujący lot na paralotni powinien:",
+        "answers": [
+          "dopasować swój ubiór do warunków atmosferycznych",
+          "zabezpieczyć się przed nadmierną utratą ciepła",
+          "korzystać z nieprzewiewnego kombinezonu",
+          "wszystkie odpowiedzi są prawidłowe"
         ],
-        "correctAnswer": "C"
+        "correctAnswer": 3
       },
       {
-        "question": "Jaką licencję uważamy za ważną?",
-        "options": [
-          "Licencję w której znajduje się zdjęcie jej posiadacza",
-          "Licencję wydaną przez Prezesa ULC lub licencja wydana przez właściwy organ obcego państwa i uznana przez Prezesa ULC.",
-          "Licencję wydaną przez Inspektorat Personelu Lotniczego ULC",
-          "Żadna z odpowiedzi nie jest poprawna"
+        "question": "Chwilowe osłabienie słuchu może być skutkiem:",
+        "answers": [
+          "nagłej zmiany ciśnienia",
+          "nagłej zmiany prędkości",
+          "zmiany temperatury",
+          "wszystkie odpowiedzi są prawidłowe"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 0
       },
       {
-        "question": "Jakie służby są zapewniane w przestrzeni niekontrolowanej?",
-        "options": [
-          "Służba kontroli ruchu lotniczego",
-          "Służba kontroli ruchu lotniczego i służba alarmowa",
-          "Służba alarmowa i służma informacji powietrznej",
-          "Służba kontroli ruchu lotniczego i służba informacji powietrznej"
+        "question": "W normalnym stanie atmosfery temperatura powietrza:",
+        "answers": [
+          "rośnie, co może doprowadzić do przegrzania organizmu",
+          "nie zmienia się",
+          "maleje od 0,6 do 1 stopnia na każde 100m",
+          "początkowo rośnie, poźniej maleje"
         ],
-        "correctAnswer": "C"
+        "correctAnswer": 2
       },
       {
-        "question": "Jakie warunki powinien spełniać kandydat do szkolenia praktycznego?",
-        "options": [
-          "Posiadać wykształcenie określone w ustawie dla danej licencji",
-          "Wszystkie odpowiedzi są prawidłowe",
-          "Powinien posiadać pisemną zgodę przedstawiciela ustawowego jeśli nie uzyskał pełnoletniości",
-          "Posiadać odpowiednie orzeczenie lotniczo-lekarskie"
+        "question": "Prędkość wiatru i jego kierunek:",
+        "answers": [
+          "nie ma wpływu na bezpieczeństwo lotu",
+          "podczas startu nie ma znaczenia",
+          "nie ma wpływu na tworzenie się turbulencji i rotorów",
+          "wszystkie odpowiedzi są fałszywe"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 3
       },
       {
-        "question": "Kiedy następuje wymiana licencji?",
-        "options": [
-          "Na wniosek złożony do Prezesa ULC",
-          "Na wniosek ztozony do rejestru personelu lotniczego",
-          "Z mocy prawa po 5 latach od chwili wydania",
-          "Na wniosek złożony do ministra właściwego do spraw transportu A"
+        "question": "Spożywanie alkoholu przed lub w trakcie lotu:",
+        "answers": [
+          "jest łamaniem prawa lotniczego",
+          "powoduje pogorszenie koncentracji",
+          "niekorzystnie wpływa na narząd równowagi",
+          "wszystkie odpowiedzi są prawidłowe"
         ],
-        "correctAnswer": "A"
+        "correctAnswer": 3
+      },
+      {
+        "question": "Najczęstszą przyczyną urazu kręgosłupa jest:",
+        "answers": [
+          "wykonywanie lotów z napędem plecakowym",
+          "latanie w kominach termicznych",
+          "\"przeciągnięcie\" paralotni podczas podejścia do lądowania",
+          "lądowanie z założonymi \"uszami\""
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Start na paralotni może być niebezpieczny gdy:",
+        "answers": [
+          "występuje silny porwist wiatr",
+          "przez startowisko przechodzą podmuchy termiczne",
+          "startowisko jest po stronie zawietrznej góry",
+          "wszystkie odpowiedzi są prawidłowe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Udzielając pomocy pilotowi, który spadł na ziemię i doznał urazu:",
+        "answers": [
+          "jeżeli jest taka potrzeba staramy się przywrócić akcję serca i oddech",
+          "tamujemy miejsca krwotoku",
+          "wzywamy służby medyczne",
+          "wszystkie odpowiedzi są prawidłowe"
+        ],
+        "correctAnswer": 3
       }
     ]
   },
   {
-    "title": "Wiedza Ogólna o Statku Powietrznym",
+    "category": "Meteorologia",
     "questions": [
       {
-        "question": "Która z odpowiedzi jest fałszywa. Poszycie górne i dolne paralotni:",
-        "options": [
-          "Są połączone ze sobą ściankami komór i zebrami,",
-          "Są wykonane z tkaniny spadochronowej,",
-          "Dzięki zebrom tworzą odpowiedni profil,",
-          "Są ze sobą zszyte na krawędzi spływu."
+        "question": "Front atmosferyczny jest to:",
+        "answers": [
+          "linia rozdziału dwóch mas powietrza o różnej temperaturze",
+          "linia łącząca punkty o stałym ciśnieniu",
+          "obszar występowania powietrza o obniżonym ciśnieniu",
+          "masa powietrza przemieszczająca się od wyżu do niżu"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 0
       },
       {
-        "question": "Linki paralotni są obciążone w różny sposób Które grupy linek są podczas lotu obciążone najbardziej?",
-        "options": [
-          "Linki rzędu C.",
-          "Linki rzędów A i B",
-          "Linki rzędów C i D",
-          "Linki rzędów A i D."
+        "question": "Po przejściu frontu cieplnego następuje:",
+        "answers": [
+          "poprawa pogody, zanikają opady, zwiększa się nasłonecznienie",
+          "pogorszenie pogody, mogą pojawić się opady z nimbostratusa",
+          "nasilenie opadów z cumulonimbusa",
+          "gwałtowne ochłodzenie"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 1
       },
       {
-        "question": "Jak nazywamy element łączący linki zbiorcze paralotni z taśmami nośnymi?",
-        "options": [
-          "Karabinki.",
-          "Deltki",
-          "Bloczki.",
-          "Skręcane ogniwa."
+        "question": "Obszar wyżowy to:",
+        "answers": [
+          "obszar występowania powietrza, którego temperatura jest stała na każdej wysokości",
+          "miejsce występowania powietrza o podwyższonym ciśnieniu",
+          "miejsce występowania powietrza o obniżonym ciśnieniu",
+          "obszar powietrza powyżej 1500 m npm"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 1
       },
       {
-        "question": "Jak nazywają się otwory wykonane w ściankach cel i żebrach skrzydła?",
-        "options": [
-          "Kompensatory ciśnienia",
-          "Otwory wentylacyjne",
-          "Wloty komór.",
-          "Otwory wyrównawcze ciśnienia."
+        "question": "Izobara jest to:",
+        "answers": [
+          "linia na mapie pogody łącząca punkty o tym samym ciśnieniu",
+          "zapis zmiany ciśnienia na osi czasowej",
+          "obszar występowania powietrza o jednakowym ciśnieniu",
+          "przyrząd do pomiaru ciśnienia atmosferycznego"
         ],
-        "correctAnswer": "D"
+        "correctAnswer": 0
       },
       {
-        "question": "Z jakich materiałów nie można wykonać powierzchni górnej i dolnej paralotni?",
-        "options": [
-          "Z tkaniny spadochronowej",
-          "Z tkaniny poliestrowej,",
-          "Z tkaniny poliamidowej.",
-          "Z nieprzepuszczalnej dla powietrza, impregnowanej tkaniny syntetycznej do której w procesie tkania wprowadzono dodatkowe włókna wzmacniające utrudniające darcie (rjp-stop)."
+        "question": "Okluzja występuje gdy:",
+        "answers": [
+          "nastąpi wyrównanie ciśnienia pomiędzy wyżem a niżem",
+          "powietrze o wyższej temperaturze napłynie na obszar chłodniejszego powietrza",
+          "front chłodny dogoni front ciepły",
+          "powietrze chłodne znajdzie się niżej od ciepłego"
         ],
-        "correctAnswer": "A"
+        "correctAnswer": 2
       },
       {
-        "question": "Wszystkie włókna syntetyczne:",
-        "options": [
-          "nie zmieniają swoich właściwości pod wpływem działania promieni słonecznych.",
-          "nie są wrażliwe na wilgoć",
-          "nie są wrażliwe na działanie rozpuszczalników organicznych.",
-          "gdy utracą warstwę impregnującą, stają się bardziej porowate i przepuszczalne dla powietrza."
+        "question": "Chmura cb:",
+        "answers": [
+          "powoduje gwałtowny opad",
+          "towarzyszą jej silne prądy powietrzne",
+          "jest dużym zagrożeniem dla pilota paralotniowego",
+          "wszystkie odpowiedzi są prawidłowe"
         ],
-        "correctAnswer": "D"
+        "correctAnswer": 3
       },
       {
-        "question": "Przyspieszacz (speed system)",
-        "options": [
-          "powoduje zwiększenie kąta natarcia skrzydła,",
-          "luzuje linki sterownicze i zwiększa współczynnik siły nośnej w obszarze gdzie są zaczepione linki rzędu D",
-          "skraca przednie taśmy nośne.",
-          "nie jest stosowany w paralotniach szkolnych"
+        "question": "Chmura nimbostratus:",
+        "answers": [
+          "jest chmurą najniższego piętra",
+          "zbudowana jest z wody i pary wodnej",
+          "powoduje jednostajny opad deszczu",
+          "wszystkie odpowiedzi są prawidłowe"
         ],
-        "correctAnswer": "C"
+        "correctAnswer": 3
       },
       {
-        "question": "Linki sterownicze",
-        "options": [
-          "biegną przez bloczki lub oczka przymocowane na przednich taśmach nośnych",
-          "służą do wykonywania zakrętów i zmiany prędkości paralotni.",
-          "składają się z dwóch linek głównych i dwóch dodatkowych.",
-          "nie powinny być ustawione indywidualnie dla każdego pilota"
+        "question": "Chmura altus:",
+        "answers": [
+          "sygnalizuje gwałtowne pogorszenie pogody",
+          "nie występuje w naszej strefie klimatycznej",
+          "zbudowana jest wyłącznie z pary wodnej",
+          "jest chmurą średniego pietra"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 3
       },
       {
-        "question": "Uprząż paralotniowa:",
-        "options": [
-          "jest integralną częścią paralotni, musi być razem z nią atestowana i pozostawać zawsze z nią połączona,",
-          "jest łączona z taśmami nośnymi za pomocą karabinków.",
-          "nie wpływa na własności lotne i zachowanie skrzydła w locie,",
-          "może być regulowana tylko przez instruktorów paralotniowych."
+        "question": "Chmura cirrus:",
+        "answers": [
+          "zbudowana jest z kryształków lodu",
+          "jest chmurą średniego piętra",
+          "łatwo przeobraża się w chmurę burzową",
+          "występuje głównie zimą"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 0
       },
       {
-        "question": "Wydłużenie skrzydła jest opisywane stosunkiem:",
-        "options": [
-          "ciężaru startowego do powierzchni skrzydła.",
-          "kwadratu rozpiętości do powierzchni.",
-          "skrzydła o większej powierzchni do skrzydła o mniejszej powierzchni,",
-          "kwadratu powierzchni do rozpiętości."
+        "question": "Inwersja to:",
+        "answers": [
+          "zjawisko wyrównania ciśnienia pomiędzy sąsiadującymi dolinami",
+          "zjawisko pogodowe, w którym powietrze o wyższej temperaturze znajduje się wyżej",
+          "efekt przepływu powietrza przez dyszę",
+          "forma rotoru"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 1
       }
     ]
   },
   {
-    "title": "OSIĄGI I PLANOWANIE LOTU",
+    "category": "Nawigacja",
     "questions": [
       {
-        "question": "Ile m/s wynosi prędkość minimalnego opadania na wykresie krzywej biegunowej przedstawionej poniżej?",
-        "options": [
-          "2 m/s.",
-          "3 m/s",
-          "2,8 m/s.",
-          "4 m/s"
+        "question": "Godzina 1:00 czasu lokalnego latem w Polsce:",
+        "answers": [
+          "24:00 UTC dnia poprzedniego",
+          "1:00 UTC",
+          "11:00 UTC",
+          "23:00 UTC dnia poprzedniego"
         ],
-        "correctAnswer": "A",
-        "image": "Krzywa_biegunowa_paralotni.jpg"
+        "correctAnswer": 3
       },
       {
-        "question": "Ile wynosi prędkość najlepszej doskonałości na wykresie krzywej biegunowej przedstawionej poniżej:",
-        "options": [
-          "57 km/h",
-          "28 km/h",
-          "45 km/h",
-          "40 km/h"
+        "question": "Planując przelot na paralotni pilot powinien:",
+        "answers": [
+          "przeanalizować warunki meteorologiczne",
+          "zaplanować miejsca awaryjnego lądowania",
+          "uwzględnić ograniczenia w ruchu lotniczym",
+          "wszystkie odpowiedzi są prawidłowe"
         ],
-        "correctAnswer": "D",
-        "image": "krzywa-biegunowa.gif"
+        "correctAnswer": 3
       },
       {
-        "question": "Który punkt oznacza początek odrywania strug na wykresie krzywej biegunowej przedstawionym poniżej",
-        "options": [
-          "a",
-          "b",
-          "c",
-          "d"
+        "question": "Jaki kierunek określany jest jako SE:",
+        "answers": [
+          "095",
+          "315",
+          "045",
+          "135"
         ],
-        "correctAnswer": "C",
-        "image": "krzywa-biegunowa.gif"
+        "correctAnswer": 3
       },
       {
-        "question": "Jaką technikę zakrętu najlepiej jest stosować podczas lotów w termice?",
-        "options": [
-          "zakręty z pełnej prędkości.",
-          "zakręty skrzydłem przyhamowanym.",
-          "zakręty na minimalnej prędkości",
-          "Najpierw wprowadzić przyhamowane skrzydło w zakręt. Następnie wewnętrzną do zakrętu sterówkę mocniej zaciągnąć, a zewnętrzną szybko odpuścić."
+        "question": "Jaki kierunek określany jest jako NW:",
+        "answers": [
+          "315",
+          "295",
+          "335",
+          "205"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 0
       },
       {
-        "question": "Zbyt gwałtowne wprowadzenie paralotni w zakręt przez bardzo szybkie zaciągnięcie linki sterowniczej może:",
-        "options": [
-          "wprowadzić skrzydło w spiralę,",
-          "doprowadzić do spadochronowania,",
-          "doprowadzić do korkociągu,",
-          "wywołać silne kołysanie poprzeczne."
+        "question": "Wiatr boczny:",
+        "answers": [
+          "uniemożliwia lot na wprost",
+          "wydłuża czas lotu do celu",
+          "nie ma wpływu na czas przelotu",
+          "powoduje znaczne zwiększenie opadania"
         ],
-        "correctAnswer": "C"
+        "correctAnswer": 1
       },
       {
-        "question": "Stały wiatr od tyłu podczas lotu.",
-        "options": [
-          "pogarsza doskonałość skrzydła,",
-          "nie ma wpływu na prędkość względem ziemi,",
-          "poprawia doskonałość skrzydła,",
-          "zmniejsza prędkość postępową."
+        "question": "Wykonując lot docel-powrót przy silnym wietrze:",
+        "answers": [
+          "czas lotu będzie taki sam jak przy bezwietrzu",
+          "w zależności czy wracamy z wiatrem czy pod wiatr, lot będzie dłuższy lub ktrótszy niż przy bezwietrzu",
+          "czas przelotu będzie zawsze krótszy",
+          "czas przelotu będzie zawsze dłuższy"
         ],
-        "correctAnswer": "C"
+        "correctAnswer": 3
       },
       {
-        "question": "Aby wycentrować komin termiczny",
-        "options": [
-          "pilot powinien możliwie często zmieniać kierunek lotu.",
-          "pilot powinien podczas wlatywania w komin mocniej przyhamować skrzydło a później w centrum krążyć możliwie szybko.",
-          "obowiązuje ogólna reguła, noszenie rośnie - zwiększyć promień krążenia noszenie spada - zachować promień krążenia.",
-          "obowiązuje ogólna reguła noszenie spada - zmniejszyć promień krążenia . noszenie rośnie - zwiększyć promień krążenia."
+        "question": "Paralotnia lecąc w powietrzu z prędkością trymową ma stałą prędkość:",
+        "answers": [
+          "w stosunku do powierzchni ziemi",
+          "w stosunku do otaczającego powietrza",
+          "nie wytraca wysokości",
+          "ma większą prędkość, gdy sterówki zą zaciągnięte"
         ],
-        "correctAnswer": "D"
+        "correctAnswer": 1
       },
       {
-        "question": "Z jaką prędkością należy lecieć podczas, podejścia końcowego?",
-        "options": [
-          "Z prędkością maksymalną",
-          "prędkością minimalną.",
-          "Zawsze z prędkością odpowiadającą najmniejszemu opadaniu",
-          "W miarę możliwości z prędkością, przy której skrzydło jest najbardziej stabilne."
+        "question": "Lecąc zgodnie z kierunkiem wiatru pilot ma prędkość w odniesieniu do ziemi:",
+        "answers": [
+          "będącą sumą prędkości własnej i prędkości wiatru",
+          "konstrukcyjną paralotni",
+          "trymową",
+          "żadna z odpowiedzi nie jest prawidłowa"
         ],
-        "correctAnswer": "D"
+        "correctAnswer": 0
       },
       {
-        "question": "Przy pomocy trymerów :",
-        "options": [
-          "pilot może wpływać na zwrotność swojego skrzydła,",
-          "pilot nie może zmieniać kąta natarcia swojego skrzydła,",
-          "pilot może zmieniać prędkość swojego skrzydła,",
-          "każda paralotnia jest bardziej zwrotna"
+        "question": "Za pomocą GPS możemy określić:",
+        "answers": [
+          "nasze położenie względem ziemi",
+          "prędkość w odniesieniu do powierzchni ziemi",
+          "odległość od miejsca planowanego lądowania",
+          "wszystkie odpowiedzi są prawidłowe"
         ],
-        "correctAnswer": "C"
+        "correctAnswer": 3
       },
       {
-        "question": "Planowanie lotu obejmuje:",
-        "options": [
-          "przewidywanie kierunku wiatrów w całej przestrzeni powietrznej,",
-          "unikanie obszarów występowania prądów wstępujących,",
-          "podczas lotu na znanym obszarze planowanie obejmuje wyłącznie sam lot - warunki startu i lądowania są przecież znane,",
-          "żadna z tych odpowiedzi nie jest prawidłowa."
+        "question": "Altimetr służy do pomiaru:",
+        "answers": [
+          "prędkości paralotni względem powietrza",
+          "prędkości paralotni w odniesieniu do powierzchni ziemi",
+          "ustalenia kierunku lotu",
+          "pomiaru wysokości"
         ],
-        "correctAnswer": "D"
-      },
-      {
-        "question": "Jak należy przelatywać przez obszary o zwiększonej turbulencji?",
-        "options": [
-          "Na możliwie dużej prędkości: prędkość oznacza bezpieczeństwo",
-          "Na bardzo mocno przyhamowanym skrzydle.",
-          "Z minimalną prędkością.",
-          "Ze wzmożoną uwagą skrzydło może się podwinąć!"
-        ],
-        "correctAnswer": "B"
+        "correctAnswer": 3
       }
     ]
   },
   {
-    "title": "CZŁOWIEK - MOŻLIWOŚCI I OGRANICZENIA",
+    "category": "Prawo lotnicze",
     "questions": [
       {
-        "question": "Aktywne słuchanie to",
-        "options": [
-          "Budowanie takiego nastawienia w rozmowie, które jest istotne dla mojej sytuacji",
-          "Dobre przygotowanie merytoryczne i wysłuchiwanie rozmówcy w skupieniu",
-          "Pełne nastawienie kontaktu na odbiorcę pozbawione elementów mojej aktywności, która mogłaby go zakłócić",
-          "utrzymywanie odpowiedniego kontaktu wzrokowego i koncentracji uwagi świadomość postawy ciała oraz gestykulacji okazywanie empatycznego zrozumienia przyjęcie akceptującej postawy wobec rozmówcy."
+        "question": "Dokumentem uprawniającym do wykonywania lotów na paralotni jest:",
+        "answers": [
+          "karta pilota paralotniowego",
+          "świadectwo Kwalifikacji Pilota Paralotniowego",
+          "legitymacja FAI",
+          "ubezpieczenie OC"
         ],
-        "correctAnswer": "D"
+        "correctAnswer": 1
       },
       {
-        "question": "Alkohol jest substancją uzależniającą i psychoaktywną:",
-        "options": [
-          "Oba stwierdzenia są prawdziwe",
-          "Jest substancją psychoaktywną, ale nie uzależniającą",
-          "Jest substancją uzależniającą, ale nie psychoaktywną",
-          "Oba stwierdzenia są fałszywe"
+        "question": "Świadectwo Kwalifikacji Pilota Paralotniowego wydawane jest na okres:",
+        "answers": [
+          "5 lat",
+          "bezterminowo",
+          "10 lat",
+          "w zależności od wieku pilota"
         ],
-        "correctAnswer": "A"
+        "correctAnswer": 1
       },
       {
-        "question": "Alkohol jest szybciej wydalany po tłustych posiłkach.",
-        "options": [
-          "Zdanie jest prawdziwe, aby szybciej pozbyć się alkoholu z krwi należy tłusto zjeść",
-          "Zdanie powyższe jest fałszywe a tłusty posiłek jedynie spowalnia wchłanianie alkoholu do krwii.",
-          "Zdanie jest fałszywe, a tłusty posiłek nie ma wpływu na wchłanianie alkoholu do krwi",
-          "Zdanie jest prawdziwe, ale wydalanie alkoholu zależy od ilości jedzenia"
+        "question": "Uprawnienia podstawowe wpisywane do ŚK to:",
+        "answers": [
+          "PP, PPG, PPGG",
+          "PP, PPG",
+          "TANDEM, INS",
+          "wszystkie wyżej wymienione"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 0
       },
       {
-        "question": "Alkohol powoduje obniżoną zdolność wykorzystania tlenu przez komórki mózgu:",
-        "options": [
-          "Teza jest fałszywa",
-          "Teza jest prawdziwa jedynie podczas lotów z użyciem aparatury tlenowej",
-          "Teza jest prawdziwa",
-          "Teza jest fałszywa podczas lotów powyżej 4000 m"
+        "question": "Loty paralotniowe można wykonywać w okresie:",
+        "answers": [
+          "od wschodu do zachodu słońca",
+          "30 min. przed wschodem słońca, do 30 min po zachodzie słońca",
+          "od 22 marca do 24 grudnia",
+          "rożnie, w zależności od posiadanego uprawnienia"
         ],
-        "correctAnswer": "C"
+        "correctAnswer": 1
       },
       {
-        "question": "Alkohol wpływa negatywnie na narząd równowagi oraz zaburza pracę narządu wzroku:",
-        "options": [
-          "Pierwsze zdanie jest prawdziwe, a drugie fałszywe",
-          "Pierwsze zdanie jest fałszywe, a drugie prawdziwe",
-          "Oba zdania są fałszywe.",
-          "Oba zdania są prawdziwe."
+        "question": "Jakie warunki powinien spełniać kandydat do szkolenia paralotniowego:",
+        "answers": [
+          "powinien być pełnoletni",
+          "nie ma ograniczeń wiekowych",
+          "ukończone 15 lat i za zgodą prawnych opiekunów",
+          "ukończone 17 lat"
         ],
-        "correctAnswer": "D"
+        "correctAnswer": 2
       },
       {
-        "question": "Centralny układ nerwowy składa się z:",
-        "options": [
-          "Tylko mózgu",
-          "Mózgowia i rdzenia kręgowego",
-          "Tylko rdzenia kręgowego",
-          "Narządów zmysłów"
+        "question": "Za teren zabudowany w lotach paralotniowych uważa się:",
+        "answers": [
+          "zabudowaną część terenu miejskiego",
+          "zgrupowanie ludzi",
+          "obszar zabudowany",
+          "wszystkie odpowiedzi są prawidłowe"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 3
       },
       {
-        "question": "Chwilowe osłabienie słuchu spowodowane jest przez:",
-        "options": [
-          "Wpływ przyśpieszenia",
-          "Wpływ drgań statku powietrznego",
-          "różnicy ciśnień",
-          "Wpływ różnicy temperatur"
+        "question": "Loty nad terenem zabudowanym można wykonywać na wysokości:",
+        "answers": [
+          ">50m",
+          ">100m",
+          ">150m licząc od powierzchni ziemi",
+          ">150m licząc od najwyższego obiektu w promieniu 300m"
         ],
-        "correctAnswer": "C"
+        "correctAnswer": 3
+      },
+      {
+        "question": "Loty VFR to:",
+        "answers": [
+          "loty nocne",
+          "loty w strefie",
+          "loty z wizualizacją przestrzeni",
+          "nie dotyczy paralotniarzy"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Loty w strefie EPD:",
+        "answers": [
+          "są bezwzględnie zakazane",
+          "mogą być wykonywane tylko w lotach bez napędu",
+          "można wykonywać o ile strefa nie została aktywowana",
+          "można wykonywać za zgodą właściciela terenu"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Loty na paralotni można wykonywać do wysokości:",
+        "answers": [
+          "nie ma ograniczeń",
+          "do 2900m, o ile nie występują inne ograniczenia",
+          "1500m w EPP",
+          "3000m, ale tylko w EPR"
+        ],
+        "correctAnswer": 1
       }
     ]
   },
   {
-    "title": "METEOROLOGIA",
+    "category": "Zasady Lotu",
     "questions": [
       {
-        "question": "Izobary przedstawiają rozkład:",
-        "options": [
-          "Ciśnienia atmosferycznego:",
-          "Wysokości powierzchni jednakowego ciśnienia",
-          "Jednakowej prędkości wiatru",
-          "Zmian ciśnienia"
+        "question": "B-stall:",
+        "answers": [
+          "służy do uzyskania większego opadania",
+          "wykonujemy zaciągając taśmy rzędu B",
+          "jest stanem mało stabilnym i dlatego wymaga przy stosowaniu dużej ostrożności",
+          "wszystkie odpowiedzi są prawidłowe"
         ],
-        "correctAnswer": "A"
+        "correctAnswer": 3
       },
       {
-        "question": "Najniższe podstawy ma chmura",
-        "options": [
-          "Cu",
-          "St",
-          "Sc",
-          "As"
+        "question": "Spiralą nazywamy taki stan lotu, w którym:",
+        "answers": [
+          "paralotnia obraca się wokół osi pionowej",
+          "paralotnia obraca się wokół osi poziomej",
+          "następuje jednostronne przeciągnięcie",
+          "założymy z jednej strony podwinięcie"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 0
       },
       {
-        "question": "O mgle mówimy gdy widzialność jest mniejsza od",
-        "options": [
-          "100m",
-          "500m",
-          "1000m",
-          "3000m"
+        "question": "Przy luźnych linkach sterowniczych:",
+        "answers": [
+          "paralotnia posiada największą prędkość postępową",
+          "paralotnia uzyskuje prędkość trymową",
+          "paralotnia osiąga największą wartość siły nośnej",
+          "żadna odpowiedź nie jest prawidłowa"
         ],
-        "correctAnswer": "C"
+        "correctAnswer": 1
       },
       {
-        "question": "Opady gradu występują z chmur",
-        "options": [
-          "Ns",
-          "Cb",
-          "St",
-          "Ac"
+        "question": "Zwiększenie kąta natarcia:",
+        "answers": [
+          "nie ma wpływu na prędkość paralotni",
+          "może spowodować podwinięcie czołowe",
+          "stosujemy przy lądowaniu aby wyhamować postępową paralotni",
+          "zwiększa ryzyko wystąpienia podwinięć bocznych"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 2
       },
       {
-        "question": "Opady mżawki występują z chmur",
-        "options": [
-          "Ns",
-          "Cs",
-          "St",
-          "Cb"
+        "question": "Krytyczny kąt natarcia to kąt, przy którym paralotnia:",
+        "answers": [
+          "wyhamuje prędkość do wartości zerowej",
+          "traci strugi na całej górnej powierzchni skrzydła",
+          "ulega zniszczeniu na skutek przeciążenia",
+          "uzyskuje największą wartość prędkości postępowej"
         ],
-        "correctAnswer": "C"
+        "correctAnswer": 1
       },
       {
-        "question": "Podstawa chmur to odległość",
-        "options": [
-          "Od ziemi do górnej granicy chmur",
-          "Od ziemi do dolnaj granicy chmur",
-          "Od poziomu morza do dolnej granicy chmur",
-          "od poziomu morza do górnej granicy chmur"
+        "question": "Co się dzieje, gdy spada gęstość powietrza / np z wysokością / :",
+        "answers": [
+          "siła nośna skrzydła maleje",
+          "siła nośna skrzydła rośnie",
+          "siła nośna skrzydła jest stała niezależnie od warunków atmosferycznych",
+          "maleje opadanie paralotni"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 0
       },
       {
-        "question": "Spadek ciśnienia oznacza zbliżanie się",
-        "options": [
-          "Niżu",
-          "Wyżu",
-          "Wału wyżowego",
-          "Siodła barycznego."
+        "question": "Opór powietrza zależny jest od:",
+        "answers": [
+          "powierzchni skrzydła",
+          "gęstości powietrza",
+          "prędkości lotu",
+          "wszystkie odpowiedzi są prawidłowe"
         ],
-        "correctAnswer": "A"
-      }
-    ]
-  },
-  {
-    "title": "NAWIGACJA",
-    "questions": [
-      {
-        "question": "Długość geograficzna to:",
-        "options": [
-          "Kąt dwuścienny zawarty między płaszczyzną południka zerowego a płaszczyzną południka przechodzącego przez dany punkt na powierzchni Ziemi",
-          "Łuk łączący oba bieguny geograficzne Ziemi będący przecięciem powierzchni Ziemi płaszczyzną przechodzącą przez oś Ziemi",
-          "Łuk powstały w wyniku przecięcia powierzchni Ziemi płaszczyzną prostopadłą do osi Ziemi przechodzącą przez jej środek",
-          "Kąt zawarty między płaszczyzną równika a pionem (promieniem) danego punktu"
-        ],
-        "correctAnswer": "A"
+        "correctAnswer": 3
       },
       {
-        "question": "Godzina 0100 czasu lokalnego latem w Polsce odpowiada godzinie",
-        "options": [
-          "2400 UTC dnia poprzedniego",
-          "0100 UTC",
-          "1100 UTC",
-          "2300 UTC dnia poprzedniego"
+        "question": "Gdy prędkość paralotni rośnie to:",
+        "answers": [
+          "spada opór aerodynamiczny",
+          "rośnie opór aerodynamiczny",
+          "opór aerodynamiczny nie ulega zmianie i jest stały w całym zakresie prędkości",
+          "wszystkie odpowiedzi są fałszywe"
         ],
-        "correctAnswer": "D"
-      },
-      {
-        "question": "Godzina 1300 czasu lokalnego zimą w Polsce odpowiada godzinie",
-        "options": [
-          "1400 UTC",
-          "1200 UTC",
-          "0100 UTC",
-          "1100 UTC"
-        ],
-        "correctAnswer": "B"
-      },
-      {
-        "question": "Jaki kierunek określamy jako NE?",
-        "options": [
-          "095’",
-          "135’",
-          "045’",
-          "345’"
-        ],
-        "correctAnswer": "C"
-      },
-      {
-        "question": "Jaki kierunek określamy jako NW?",
-        "options": [
-          "315’",
-          "135’",
-          "045’",
-          "345’"
-        ],
-        "correctAnswer": "A"
-      },
-      {
-        "question": "Jaki kierunek określamy jako SE?",
-        "options": [
-          "095’",
-          "315’",
-          "045’",
-          "135’"
-        ],
-        "correctAnswer": "D"
-      },
-      {
-        "question": "Jaki kierunek określamy jako SW?",
-        "options": [
-          "295’",
-          "225’",
-          "335’",
-          "205’"
-        ],
-        "correctAnswer": "B"
-      }
-    ]
-  },
-  {
-    "title": "PROCEDURY OPERACYJNE",
-    "questions": [
-      {
-        "question": "Kontrola przed startem powinna zawsze odbywać się",
-        "options": [
-          "Zawsze bezpośrednio po ogólnej kontroli sprzętu",
-          "zawsze bezpośrednio przed startem,",
-          "zawsze bezpośrednio po starcie,",
-          "przed zakończeniem przygotowań do startu."
-        ],
-        "correctAnswer": "B"
-      },
-      {
-        "question": "Pełne. właściwe podejście do lądowania powinno zawierać",
-        "options": [
-          "pozycję, podejście w poprzek i podejście końcowe.",
-          "podejście z wiatrem, podejście w poprzek i lądowanie,",
-          "pozycję, podejście z wiatrem, podejście w poprzek i podejście końcowe",
-          "utrate wysokosci nad lądowiskiem , podejście z wiatrem i podejście końcowe."
-        ],
-        "correctAnswer": "C"
-      },
-      {
-        "question": "Podczas lotu żaglowego",
-        "options": [
-          "A pilot robi zwrot zawsze w kierunku od stoku.",
-          "wyprzedza się zwykle z prawej strony.",
-          "Pilot startujący ma pierwszeństwo przed pilotem lecącym na żaglu",
-          "pilot robi zwrot zawsze w kierunku do stoku."
-        ],
-        "correctAnswer": "A"
-      },
-      {
-        "question": "Kontrola wzrokowa. Które z twierdzeń jest poprawne?",
-        "options": [
-          "Kontrolę wzrokową muszą przeprowadzać tylko początkujący piloci",
-          "Podczas kontroli wzrokowej musi być sprawdzona tylko krawędź natarcia.",
-          "Podczas kontroli wzrokowej muszą być sprawdzone krawędź natarcia i stabilizatory.",
-          "Podczas kontroli wzrokowej musi być sprawdzone całe skrzydło i linki nośne pod kątem zdolności do lotu"
-        ],
-        "correctAnswer": "D"
-      },
-      {
-        "question": "Jakie dokumenty z wymienionych poniżej musi posiadać przy sobie pilot paralotni podczas wykonywania lotów",
-        "options": [
-          "Świadectwo Kwalifikacji",
-          "Ubezpieczenia kosztów leczenia",
-          "Prawo jazdy",
-          "Instrukcje użytkowania paralotni"
-        ],
-        "correctAnswer": "A"
-      },
-      {
-        "question": "Kiedy pilot przyspiesza skrzydło do prędkości startowej?",
-        "options": [
-          "Podczas fazy napełniania skrzydła.",
-          "Już podczas wykonywania kontroli wzrokowej.",
-          "Równocześnie z wykonywaniem ewentualnych korekt.",
-          "Po dokonanej kontroli wzrokowej, gdy zostały spełnione wszystkie konieczne Warunki dla kontynuowania startu."
-        ],
-        "correctAnswer": "D"
-      },
-      {
-        "question": "Oderwanie się od ziemi i odlot.",
-        "options": [
-          "Odbywają się w pozycji maksymalnie pochylonej do przodu.",
-          "Odbywają się przy zachowaniu gotowości do biegu",
-          "Odbywają się w pozycji siedzącej z nogami wyciągniętymi do przodu.",
-          "Odbywają się z zupełnie wyluzowanym linkami sterowymi"
-        ],
-        "correctAnswer": "B"
-      },
-      {
-        "question": "Lądowanie na zboczu należy wykonać:",
-        "options": [
-          "pod stok,",
-          "w dół stoku,",
-          "w poprzek spadku stoku,",
-          "zawsze pod wiatr"
-        ],
-        "correctAnswer": "D"
-      },
-      {
-        "question": "Jakie czynności serwisowe, wykonywane w regularnych odstępach czasu, zalecają producenci spadochronów rezerwowych?",
-        "options": [
-          "Symulację sytuacji awaryjnych i ćwiczenie użycia spadochronu.",
-          "Kontrolę i wietrzenie oraz przekładanie w określonych, regularnych odstępach czasu.",
-          "Raz na trzy miesiące wysyłać do producenta do kontroli.",
-          "Raz na rok wysyłać do producenta do kontroli"
-        ],
-        "correctAnswer": "B"
-      },
-      {
-        "question": "Ładowanie poza oficjalnym lądowiskiem niesie ze sobą zwiększone ryzyko wypadku gdy",
-        "options": [
-          "pilot podejmie decyzję na czas.",
-          "pilot wykona prawidłowe podejście do lądowania z wszystkimi jego - elementami,",
-          "lądowanie odbywa się na ściernisku,",
-          "pilot podejmie decyzję za późno. o"
-        ],
-        "correctAnswer": "D"
-      }
-    ]
-  },
-  {
-    "title": "ZASADY LOTU",
-    "questions": [
-      {
-        "question": "Jak zmieni się współczynnik oporu ciała o dowolnym kształcie w powietrzu, gdy prędkość opływu zwiększy się dwukrotnie?",
-        "options": [
-          "Dwukrotnie wzrośnie.",
-          "Nie ulegnie zmianie.",
-          "Czterokrotnie wzrośnie.",
-          "Sześciokrotnie wzrośnie."
-        ],
-        "correctAnswer": "C"
-      },
-      {
-        "question": "Siła nośna skrzydła (profilu aerodynamicznego) zależy od gęstości powietrza Gdy gęstość powietrza spada, siła nośna:",
-        "options": [
-          "nie zmienia się.",
-          "podwaja się.",
-          "maleje,",
-          "rośnie."
-        ],
-        "correctAnswer": "C"
-      },
-      {
-        "question": "Jak nazywa się obrót aparatu latającego wokół osi pionowej?",
-        "options": [
-          "przechylenie.",
-          "pochylenie,",
-          "odchylenie.",
-          "odpadanie,"
-        ],
-        "correctAnswer": "C"
-      },
-      {
-        "question": "Redukcję oporu indukowanego na płacie nośnym uzyskuje się m.in. przez:",
-        "options": [
-          "zmniejszenie rozpiętości płata,",
-          "specjalne klapy na końcach płata,",
-          "budowę płatów o stałej szerokości",
-          "zwiększenie wydłużenia płata."
-        ],
-        "correctAnswer": "D"
-      },
-      {
-        "question": "jak zmieni się opór powietrza gdy prędkość urządzenia latającego wzrośnie",
-        "options": [
-          "Też dwukrotnie wzrośnie",
-          "Pozostanie stały.",
-          "Wzrośnie czterokrotnie.",
-          "Wzrośnie trzykrotnie"
-        ],
-        "correctAnswer": "C"
-      },
-      {
-        "question": "Kątem natarcia nazywamy:",
-        "options": [
-          "kąt zawarty między torem ślizgu, a poziomem ziemi",
-          "kąt zawarty między linią kierunku strug opływających skrzydło, a średnią cięciwą skrzydła",
-          "kąt jaki tworzą wektory siły oporu i siły ciągu",
-          "kąt pod jakim paralotnia leci z prędkością najlepszej doskonałości, zwany też kątem ślizgu"
-        ],
-        "correctAnswer": "B"
-      },
-      {
-        "question": "Do konkretnych prędkości charakteryzujących własność, lotne paralotni należą:",
-        "options": [
-          "prędkość minimalnego opadania,",
-          "prędkość średnia,",
-          "prędkość względem powierzchni ziemi,",
-          "prędkość wiatru."
-        ],
-        "correctAnswer": "A"
-      },
-      {
-        "question": "Rozkład siły nośnej na powierzchni skrzydła paralotni",
-        "options": [
-          "jest równomierny.",
-          "wykazuje maksimum w okolicy jednej trzeciej profilu licząc od krawędzi natarcia",
-          "wykazuje maksimum w okolicy środka profilu",
-          "w skrzydłach wyczynowych wykazuje maksimum w okolicy jednej trzeciej profilu licząc od krawędzi spływu"
-        ],
-        "correctAnswer": "B"
-      },
-      {
-        "question": "Opór stawiany przez wszystkie linki, jak również opór stawiany przez pilota wraz z uprzężą nazywamy:",
-        "options": [
-          "Oporem kształtu",
-          "Oporem indukowanym.",
-          "Oporem brzegowym;",
-          "Oporem szkodliwym"
-        ],
-        "correctAnswer": "D"
+        "correctAnswer": 1
       },
       {
         "question": "Opór indukowany:",
-        "options": [
-          "powstaje w wyniku wyrównania ciśnień między górą i dołem skrzydła na jego końcówkach",
-          "wydłużenie paralotni nie mana na niego wpływu",
-          "powstaje na wszystkich częściach statku powietrznego",
-          "jest nazywany również oporem interferencyjnym"
+        "answers": [
+          "na paralotni nie występuje",
+          "posiada stałą wartość dla danego profilu",
+          "jest tym większy nim końcówka skrzydła jest szersza",
+          "jest tym większy nim końcówka skrzydła jest węższa"
         ],
-        "correctAnswer": "A"
+        "correctAnswer": 2
       },
       {
-        "question": "Poprzez zaciąganie obu linek sterowniczych",
-        "options": [
-          "nie zmiefita się profil skrzydła paralotni,",
-          "nie zmienia się kąt natarcia skrzydła,",
-          "paralotnia leci wolniej.",
-          "me zmienia się stosunek wartości siły nośnej do wartości siły oporu."
+        "question": "Kątem natarcia nazywamy:",
+        "answers": [
+          "kąt zawarty pomiędzy cięciwą skrzydła a kierunkiem napływających strug",
+          "kąt zawarty pomiędzy cięciwą skrzydła a poziomem ziemi",
+          "kąt zawarty pomiędzy cięciwą skrzydła a linią łączącą krawędź natarcia z krawędzią spływu",
+          "kąt zawarty pomiędzy stycznymi do powierzchni dolnej i górnej paralotni"
         ],
-        "correctAnswer": "C"
-      },
-      {
-        "question": "Przy luźnych linkach sterowniczych",
-        "options": [
-          "paralotnia leci z prędkością największej doskonałości.",
-          "paralotnia leci z prędkością trymową,",
-          "siła nośna osiąga maksymalną wartość,",
-          "żadna z tych odpowiedzi nie jest prawidłowa"
-        ],
-        "correctAnswer": "B"
-      },
-      {
-        "question": "Oderwanie strug powietrza od powierzchni skrzydła",
-        "options": [
-          "nie może się zdarzyć na skutek zmiany kąta natarcia w wyniku działania silnego szkwału w powietrzu,",
-          "jest prowokowane przez pilota świadomie podczas lądowania.",
-          "nigdy nie jest wynikiem zbyt dużego kąta natarcia - przekroczenia jego granicznej wartości,",
-          "jest popularnie zwane krawatem"
-        ],
-        "correctAnswer": "B"
+        "correctAnswer": 0
       }
     ]
   },
   {
-    "title": "OGÓLNE BEZPIECZEŃSTWO LOTÓW",
+    "category": "Bezpieczeństwo lotów",
     "questions": [
       {
-        "question": "Czy pilot powinien od czasu do czasu umyślnie użyć spadochronu ratunkowego aby sprawdzić jego stan techniczny i prawidłowe działanie?",
-        "options": [
-          "Tak, takie próby są konieczne, aby sprawdzić działanie spadochronu w nagłym",
-          "Tak. ale w idealnych warunkach atmosferycznych",
-          "NIe. tylko w przypadkach rzeczywiście awaryjnych.",
-          "Tak. ale zawsze w warunkach rzeczywistych - podczas lotu C"
+        "question": "Wyprowadzenie paralotni z korkociągu / negatywki / wykonujemy poprzez:",
+        "answers": [
+          "wprowadzenie skrzydła w fazę full-stall i wyjście standardowe",
+          "nie reagujemy, skrzydło wyprowadzi się samo",
+          "zaciągamy mocno sterówkę po stronie wewnętrznej",
+          "wszystkie odpowiedzi są fałszywe"
         ],
-        "correctAnswer": "C"
+        "correctAnswer": 0
       },
       {
-        "question": "Podczas spadochronowania:",
-        "options": [
-          "strugi odrywają się z dużych części górnej powierzchni skrzydła,",
-          "skrzydło me jest wypełnione i zostaje mocno za plecami pilota,",
-          "Paralotnia zachowuje jeszcze pełną sterowność,",
-          "kąt lotu ślizgowego spada do połowy?"
+        "question": "Jeżeli skrzdło ulegnie przeciągnięciu i opada za plecami to:",
+        "answers": [
+          "szybko, ale płynnie odpuszczamy sterówki",
+          "w razie potrzeby, gdy skrzydło wyprzedza, lekko przyhamowywujemy",
+          "brak reakcji pilota może spowodować sytuację, w której wskazane zostanie użycie SIP",
+          "wszystkie odpowiedzi są prawidłowe"
         ],
-        "correctAnswer": "A"
+        "correctAnswer": 3
       },
       {
-        "question": "Podczas startu, w fazie przyspieszania, komory końcówek skrzydła nie wypełniają się",
-        "options": [
-          "Gdy warunki startowiska na to pozwalają, pilot może próbować poprzez obustronne przyhamowanie otworzyć końcówki skrzydła.",
-          "W każdym przypadku należy przerwać start.",
-          "Skrzydło należy natychmiast otworzyć poprzez hamowanie linka sterowa zapadniętej strony",
-          "Pilot ciągnie za tylne taśmy nośne,"
+        "question": "Paralotnia sygnalizuje moment przeciągnięcia / full stall / poprzez:",
+        "answers": [
+          "zanik odgłosu świstu powietrza przelatującego prez olinowanie",
+          "rosnącą siłę na sterówkach",
+          "znaczną utratę prędkości postępowej",
+          "wszystkie odpowiedzi są prawidłowe"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 3
       },
       {
-        "question": "Standardowe wyprowadzanie paralotni ze spadochronowania ustalonego polega na:",
-        "options": [
-          "wypchnięciu do przodu taśm nośnych rzędu A i B,",
-          "wypchnięciu do przodu taśm nośnych rzędu A,",
-          "krótkim i mocnym wybraniu jednej linki sterowej.",
-          "wprowadzeniu skrzydła w przeciągnięcie, a następnie jednostronnym przyhamowaniu"
+        "question": "Przeciągnięcie paralotni / przejście przez krytyczn kąt natarcia / wystąpi gdy:",
+        "answers": [
+          "nadmiernie rozpędzimy paralotnię",
+          "zbyt mocno zaciągniemy sterówki",
+          "zbyt szybko uwolnimy sterówki po spadochronowaniu ustalonym",
+          "podczas startu zbyt mocno wypychamy taśmę A do przodu"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 1
       },
       {
-        "question": "Jak pilot musi postępować, aby zakończyć przeciągnięcie?",
-        "options": [
-          "Natychmiast, gwałtownie zwolnić obie sterówki Najlepszym do tego momentem jest. gdy skrzydło znajduje się wyraźnie za jego plecami.",
-          "Trzymać zaciągnięte sterówki, aż skrzydło znajdzie się nad głową pilota, a następnie stopniowo, ale zdecydowanie zwolnić je.",
-          "Przez konsekwentne i zdecydowane pompowane sterówkami Gdy to nie wystarcza i nie przynosi pożądanego efektu, należy pompować naprzemiennie.",
-          "Konsekwentne i zdecydowane pompowanie sterówkami ułatwia ponowne napełnienie skrzydła i pomaga pilotowi odzyskanie pełnej kontroli nad swoją paralotnią."
+        "question": "W trakcie lotu prawa część paralotni ulega podwinięciu:",
+        "answers": [
+          "natychmiast uruchamiamy SIP",
+          "nie reagujemy, paralotnia samoczynnie wyjdzie z sytuacji niebezpiecznej",
+          "balansujemy ciałem na lewą stronę i w razie potrzeby lekko zaciągamy lewą sterówkę",
+          "zaciągamy obie sterówki o 30%"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 2
       },
       {
-        "question": "Korkociąg należy zakończyć przez:",
-        "options": [
-          "dozowane zwolnienie sterówek",
-          "poprzez wypchnięcie taśm „A\" do przodu, jak inne metody zawodzą,",
-          "poprzez energiczne zaciągnięcie taśm „D\"",
-          "poprzez natychmiastowe zwolnienie obu sterówek."
+        "question": "Kask jest wyposażeniem:",
+        "answers": [
+          "obowiązkowym",
+          "dobrowolnym",
+          "wymaganym tylko w lotach z pasażerem",
+          "obowiązkowym tylko w przypadku lotów szkoleniowych"
         ],
-        "correctAnswer": "A"
+        "correctAnswer": 0
       },
       {
-        "question": "Korkociąg to jest:",
-        "options": [
-          "ruch wokół osi podłużnej,",
-          "ruch obrotowy wokół osi pionowej.",
-          "sytuacja w której pilot całkowicie traci kontrolę nad paralotnią i musi użyć spadochronu ratunkowego",
-          "jest normalną figurą lotu, która musi zostać opanowana przez każdego pilota. Jest częścią składową egzaminu praktycznego"
+        "question": "Protektor w uprzęży paralotniowej:",
+        "answers": [
+          "jest obowiązkowy",
+          "łagodzi skutki upadku z wysokości",
+          "poprawia komfort użytkowania uprzęży",
+          "umożliwia zamocowanie kółek"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 1
       },
       {
-        "question": "Jednostronne podwinięcie skrzydła (klapa):",
-        "options": [
-          "występuje w skrzydłach szkolnych częściej niż w wyczynowych,",
-          "w niespokojnym powietrzu jest możliwe na każdym rodzaju skrzydła,",
-          "nigdy me prowadzi do zmiany kierunku lotu,",
-          "zawsze zaciągamy sterówkę po podwiniętej stronie skrzydła"
+        "question": "Spadochron ratunkowy SIP:",
+        "answers": [
+          "używamy w przypadku zderzenia paralotniarzy",
+          "używamy w przypadku uszkodzenia paralotni uniemożliwiającego dalszy lot",
+          "używamy w przypadku trwałego odkształcenia paralotni uniemożliwiającego dalszy lot",
+          "wszystkie odpowiedzi są prawidłowe"
         ],
-        "correctAnswer": "B"
+        "correctAnswer": 3
+      },
+      {
+        "question": "W przypadku konieczności szybkiego wytracenia wysokości stosujemy:",
+        "answers": [
+          "uszy",
+          "B-stall",
+          "spirala",
+          "wszystkie odpowiedzi są prawidłowe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Podczas startu w fazie rozbiegu środkowa część czaszy jest cofnięta:",
+        "answers": [
+          "lekko przyhamowywujemy paralotnię i kontynuujemy rozbieg",
+          "natychmiast przerywamy start",
+          "mocno hamujemy i gwałtownie przyśpieszamy",
+          "kontynuujemy rozbieg z poluzowanymi sterówkami"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "category": "Osiągi i planowanie lotu",
+    "questions": [
+      {
+        "question": "W kominie termicznym podczas przelotu:",
+        "answers": [
+          "pozostajemy, aż do jego wygaśnięcia",
+          "obieramy kierunek krążenia zawsze w prawo",
+          "wykorzystujemy wszystkie kominy",
+          "wszystkie odpowiedzi są nieprawidłowe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Przelot otwarty wykonujemy najczęściej:",
+        "answers": [
+          "pod wiatr",
+          "nad zbiornikami wodnymi",
+          "nad zwartą zabudową, lepsze warunki termiczne",
+          "wszystkie odpowidzi są nieprawidłowe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Planując przelot należy uwzględnić:",
+        "answers": [
+          "możliwość awaryjnego lądowania",
+          "miejsca występowania kominów termicznych",
+          "rzeźbę terenu, nad którym ma się odbyć lot",
+          "wszystkie odpowiedzi są prawidłowe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Planowanie lotu powinno zawierać:",
+        "answers": [
+          "Analizę warunków meteorologicznych",
+          "sprawdzenie dostępności przestrzeni powietrznej",
+          "określenie możliwości psycho-fizycznych pilota",
+          "wszystkie odpowiedzi są prawidłowe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Użycie przyśpieszacza prędkości \"Speed\" powoduje:",
+        "answers": [
+          "zwiększenie prędkości postępowej",
+          "zwiększenie opadania",
+          "zmniejszenie doskonałości lotniczej",
+          "wszystkie odpowiedzi są prawidłowe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Biegunowa skrzydła to:",
+        "answers": [
+          "linia łącząca \"noski\" profilów paralotni",
+          "taśma wszyta w komory celem poprawienia sztywności paralotni",
+          "miejsce spiętrzenia powietrza w komorach paralotni",
+          "wykres zależności prędkości postępowej i opadania"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Na przedstawionej biegunowej punkt A określa:",
+        "answers": [
+          "minimalną bezpieczną prędkość paralotni",
+          "najmniejsze opadanie",
+          "prędkość ekonomiczną",
+          "prędkość trymową"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Na przedstawionej biegunowej punkt B określa:",
+        "answers": [
+          "prędkość postępową, przy której paralotnia ma najlepszą doskonałość",
+          "prędkość postępową, przy której paralotnia ma najmniejsze opadanie",
+          "prędkość trymową paralotni",
+          "prędkość przeciągnięcia"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Na przedstawionej biegunowej punkt C określa:",
+        "answers": [
+          "prędkość postępową, przy której paralotnia posiada najlepszą doskonałość",
+          "prędkość maxymalną bez użycia speed'a",
+          "prędkość trymową",
+          "prędkość preferowaną do manewru lądowania"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Na przedstawionej biegunowej punkt D określa:",
+        "answers": [
+          "prędkość trymową paralotni",
+          "prędkość maxymalną paralotni z użyciem speed'a i trymerów",
+          "max bezpieczną prędkość paralotni",
+          "prędkość przy której paralotnia traci strugi"
+        ],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "category": "Procedury Operacyjne",
+    "questions": [
+      {
+        "question": "Lot paralotniowy można wykonać:",
+        "answers": [
+          "wyłącznie po uzyskaniu zgody służb dozoru ruchu lotniczego",
+          "po złożeniu w ULC planu lotu",
+          "do wysokości 1500 m",
+          "wszystkie odpowiedzi są nieprawidłowe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Jakie czynności serwisowe zalecają producenci SIP:",
+        "answers": [
+          "kontrolę, wietrzenie, przekładanie w regularnych odstępach",
+          "raz w roku kontrolne uruchomienie w locie",
+          "raz w roku wykonać próby wytrzymałościowe",
+          "do 6 miesięcy przesłać system do producenta do kontrolu"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Pilot paralotni może lądować:",
+        "answers": [
+          "wyłącznie na oficjalnych lądowiskach",
+          "tylko w miejsach oznaczonych rękawem lotniczym",
+          "po uzyskaniu zgody ULC",
+          "w miejscach przygodnych, ale w razie naruszenia mienia obowiązuje kodeks cywilny"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Lądowanie na zboczu wykonujemy:",
+        "answers": [
+          "zawsze pod wiatr",
+          "pod stok",
+          "zgodnie ze spadkiem stoku",
+          "w poprzek stoku"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Na podejściu do lądowania:",
+        "answers": [
+          "pierwszeństwo posiada pilot będący niżej",
+          "należy przyhamować paralotnię i przejść do spadochronowania",
+          "zawsze zakładamy uszy",
+          "korzystamy z systemu hamującego SIP"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Kontrolę przedstartową paralotni i zapięć uprzęży należy wykonać:",
+        "answers": [
+          "po przeglądzie okresowym",
+          "zawsze bezpośrednio przed startem",
+          "w trakcie wykonywania startu",
+          "bezpośrednio po starcie"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Pilot paralotni przed startem powinien:",
+        "answers": [
+          "sprawdzić czy miejsce startu pozbawione jest przeszkód",
+          "startowisko usytuowane jest pod wiatr",
+          "sprawdzić czy przestrzeń nad startowiskiem nie jest zajęta",
+          "wszystkie odpowiedzi są prawidłowe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Jakie z wymienionych dokumentów pilot paralotni powinien mieć przy sobie:",
+        "answers": [
+          "dowód osobisty",
+          "ubezpieczenie KL",
+          "świadectwo kwalifikacji",
+          "świadectwo lekarskie"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "w trakcie lotu żaglowego:",
+        "answers": [
+          "pilot robi zwrot zawsze w kierunku stoku",
+          "pilot tandemu ma pierwszeństwo",
+          "nawrót wykonuje się od stoku",
+          "wyprzedzamy zawsze z prawej strony"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "W kominie termicznym pierwszeństwo posiada pilot:",
+        "answers": [
+          "krążący w prawo",
+          "będący wyżej",
+          "pilot tandemu",
+          "będący niżej"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "category": "Transport, Konserwacja i Obsługa Statku Powietrznego",
+    "questions": [
+      {
+        "question": "W przypadku zanurzenia paralotni w wodzie morskiej:",
+        "answers": [
+          "należy ją wypłukać w słodkiej wodzie",
+          "wysuszyć w miejscu przewiewnym ale nie nasłonecznionym",
+          "po 2 latach dokonać przeglądu, w tym kontrolę wytrzymałościową olinowania",
+          "wszystkie odpowiedzi są prawidłowe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Paralotnię należy przechowywać:",
+        "answers": [
+          "w stanie suchym, zaleca się okresowe wietrzenie",
+          "w miejscu nie wyeksponowanym na światło słoneczne",
+          "w stanie luźnego złożenia, nie należy niepotrzebnie jej ugniatać",
+          "wszystkie odpowiedi są prawidłowe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Skrzydło należy składać komorami:",
+        "answers": [
+          "przeciwdziała się w ten sposób zagniecieniom sztywników",
+          "w szczególności te które są wyposażone w żyłkowe usztywnienia",
+          "w celu utrzymania wlotów komór w nienaruszonym stanie",
+          "wszystkie odpowiedzi są prawidłowe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Śmigło PPG lub PPGG zabezpieczamy pokrowcem ochronnym:",
+        "answers": [
+          "aby zabezpieczyć przed przypadkowym uszkodzeniem krawędzi",
+          "aby zabezpieczyć przed opadem deszczu i zakurzeniom",
+          "śmigła węglowe i kompozytowe są wrażliwe na promieniowanie UV, a drewniane na wilgoć",
+          "wszystkie odpowiedzi są prawidłowe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Uprząż paralotniowa:",
+        "answers": [
+          "podlega corocznie obowiązkowemu przeglądowi",
+          "powinna być wymieniana co 5 lat",
+          "nie podlega przeglądom ale co 3 lata należy wymienić karabinki nośne",
+          "wszystkie odpowiedzi są nieprawidłowe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Skrzydło paralotni podlega przeglądowi:",
+        "answers": [
+          "po zdarzeniu, w którym mogło dojść do naruszenia jej struktury",
+          "jeżeli lot wykonuje uczeń lub jest to lot w tandemie",
+          "dla wiedzy pilota na temat stanu technicznego",
+          "wszystkie odpowiedzi są prawidłowe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Jeżeli skrzydło paralotni ulegnie pobrudzeniu:",
+        "answers": [
+          "można je wyprać w pralce",
+          "do czyszczenia używamy detergentów",
+          "po wypraniu suszymy na słońcu",
+          "wszystkie odpowiedzi są fałszywe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Wózek motoparalotni transportujemy:",
+        "answers": [
+          "na dachu samochodu, tyłem do przodu",
+          "w pozycji pionowej, tak aby ładunek był jak najkrótszy",
+          "na specjalnie przygotowanym wózku lub przyczepie",
+          "ciągnąc za samochodem na haku"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Kiedy należy przygotować mieszankę do silnika dwusuwowego:",
+        "answers": [
+          "nie ma specjalnych zaleceń",
+          "najlepiej wymieszać z 3 miesięcznym wyprzedzeniem",
+          "bezpośrednio przed lotem",
+          "do silników dwusuwowych nie ma potrzeby stosować mieszanki paliwowej"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Konserwacja i obsługa SIP polega na:",
+        "answers": [
+          "wysuszeniu go na słońcu i ponownemu rozłożeniu",
+          "przepraniu z dodatkiem płynu antyelektrostatycznego i wysuszeniu na słońcu",
+          "regularnym wietrzeniu i składaniu wg instrukcji producenta",
+          "okresowej wymianie olinowania"
+        ],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "category": "Wiedza Ogólna o Statku Powietrznym",
+    "questions": [
+      {
+        "question": "Wydłużeniem paralotni nazywamy:",
+        "answers": [
+          "stosunek rozpiętości czaszy do jej cięciwy",
+          "stosunek rozpiętości czaszy do jej powierzchni",
+          "stosunek kwadratu rozpiętości do powierzchni",
+          "powiększenie wymiarów paralotni na skutej jej użytkowania"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Aby przeciwdziałać nadmiernemu zużyciu paralotni:",
+        "answers": [
+          "nie należy bez potrzeby wystawiać jej na działanie UV",
+          "regularnie prać tkaninę",
+          "okresowo impregnować",
+          "przechowywać w szczelnym zamknięciu"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Sterówka to:",
+        "answers": [
+          "uchwyt mocowany do taśm A",
+          "linka łącząca uchwyt sterowniczy z galeryjką linek odchodzącą od krawędzi spływu",
+          "część taśmy A",
+          "urządzenie służące do nawigacji"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Otwory wyrównawcze:",
+        "answers": [
+          "służą do wyrównywania ciśnienia między komorami",
+          "są wycięte w profilach",
+          "mają wpływ na skuteczność wypełniania się czaszy paralotni",
+          "wszystkie odpowiedzi są prawidłowe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Speed-System to:",
+        "answers": [
+          "dodatkowe dwie komory doszyte do końcówek skrzydła",
+          "urządzenie do pomiaru prędkości wiatru",
+          "przyśpieszacz prędkości zamontowany na taśmie A",
+          "przyśpieszacz prędkości zamontowany na taśmie D"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Paralotnia posiadająca atest EN A, DHV1 lub AFNOR standard to:",
+        "answers": [
+          "paralotnia szkolno - rekreacyjna",
+          "paralotnia wyczynowa",
+          "paralotnia przeznaczona do lotów z napędem",
+          "paralotnia o nieokreślonych właściwościach"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Paralotnia o profilu samostatecznym:",
+        "answers": [
+          "ułatwia krążenie w kominie termicznym",
+          "może być używana wyłącznie przez doświadczonych pilotów",
+          "przeznaczona jest do lotów z napędem",
+          "wymaga użycia specjalnej uprzęży"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Materiał, z którego uszyta jest paralotnia powinien spełniać następujące kryteria:",
+        "answers": [
+          "wytrzymałości mechanicznej",
+          "odporności na przenikanie cząstek powietrza",
+          "gładkości powierzchni",
+          "wszystkie odpowiedzi są prawidłowe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Masa startowa to:",
+        "answers": [
+          "waga pilota w ubraniu",
+          "waga pilota i uprzęży",
+          "waga paralotni",
+          "waga całości będącej w powietrzu"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Uprząż paralotniowa powinna posiadać:",
+        "answers": [
+          "regulację taśm",
+          "protektor",
+          "miejsce na zamocowanie SIP",
+          "wszystkie odpowiedzi są prawidłowe"
+        ],
+        "correctAnswer": 3
       }
     ]
   }

@@ -4,7 +4,7 @@ import { Button, Typography, Box } from '@mui/material';
 function QuestionCard({ question, onAnswer }) {
   const [selected, setSelected] = useState(null);
   const [answered, setAnswered] = useState(false);
-  const correctIndex = question.correctAnswer.charCodeAt(0) - 'A'.charCodeAt(0);
+  const correctIndex = question.correctAnswer;
 
   useEffect(() => {
     setSelected(null);
@@ -55,7 +55,7 @@ function QuestionCard({ question, onAnswer }) {
         </Box>
       )}
       <Box sx={{ mt: 2 }}>
-        {question.options.map((opt, i) => (
+        {question.answers.map((opt, i) => (
           <Button
             key={i}
             onClick={() => handleClick(i)}
